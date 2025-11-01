@@ -1,6 +1,6 @@
-# Pedro Barcas
+# Progresso e desenvolvimento
 
-Sou desenvolvedor Full Stack apaixonado por tecnologia e construção de soluções completas — do backend à interface final.  
+Sou desenvolvedor Full Stack conto com construção de soluções completas — do backend à interface final.  
 Acredito em código limpo, design funcional e em entregar projetos que realmente **impactam**.
 
 ---
